@@ -7,7 +7,7 @@ namespace Exec5
     {
         public static void Main()
         {
-            Exercicio1();
+            Exercicio5();
         }
 
         public static bool Exercicio1()
